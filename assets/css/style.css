@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+}
+.color_fondo{
+    background-color: #28A745;
+}
+
+.logo{
+    width: 10rem;
+}
+
+.card-title{
+    font-weight: 300;
+    color: #000000;
+}
+
+.card-subtitle{
+    font-weight: 300;
+}
+
+.card-text-location{
+    font-size: 75%;
+
+}
+input[placeholder]{
+    font-weight: 300;
+}
